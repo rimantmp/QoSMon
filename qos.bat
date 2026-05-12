@@ -21,7 +21,7 @@ set csv_output=results\qos_data_%datetime%.csv
 
 echo ==================================================
 echo   PENGUJIAN QoS JARINGAN WLAN
-echo   SMK Negeri 3 Toraja Utara
+echo   Lokasi
 echo ==================================================
 echo   Target Ping  : %PING_TARGET%
 echo   Ping Count   : %PING_COUNT%
